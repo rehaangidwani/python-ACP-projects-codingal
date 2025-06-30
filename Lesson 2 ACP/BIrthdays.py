@@ -1,0 +1,5 @@
+print("I am" ,14, "years old")
+print("My mom is" ,37,"years old")
+print("My dad is" ,46,"years old")
+print("My grandmother is",80,"years old")
+print("My grandfather is",81,"years old")
