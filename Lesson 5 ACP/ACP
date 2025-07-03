@@ -1,0 +1,6 @@
+temperature =int(input("Enter the temperature in Celsius: "))
+
+if temperature >= 20:
+    print("You can wear light clothes. It's warm enough.")
+else:
+    print("Better wear something warm. It's still a bit cold.")
