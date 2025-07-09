@@ -1,0 +1,5 @@
+ch = input("Enter a character: ")
+
+ascii_code = ord(ch)
+
+print("The ASCII code of", ch, "is", ascii_code)
