@@ -8,4 +8,4 @@ def trigonometric_values():
     print(f"cos({angle_deg}) = {math.cos(angle_rad):.4f}")
     print(f"tan({angle_deg}) = {math.tan(angle_rad):.4f}")
 
-trigonometric_values()
+trigonometric_values
