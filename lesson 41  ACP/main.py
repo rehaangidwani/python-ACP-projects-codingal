@@ -1,0 +1,11 @@
+import tkinter as tk
+window = tk.Tk()
+window.title("Length Converter App")
+window.geometry("400x400")
+label = tk.Label(window, text="Welcome to the Length Converter!")
+label.pack(pady=20)
+entry = tk.Entry(window)
+entry.pack(pady=10)
+button = tk.Button(window, text="Convert")
+button.pack(pady=10)
+window.mainloop()
